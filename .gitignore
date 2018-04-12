@@ -1,0 +1,7 @@
+# Numerous always-ignore extensions
+
+cornell_movie_dialogs_corpus
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
