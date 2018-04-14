@@ -46,4 +46,4 @@ DESCRIPTION:
 
 [SOURCE LINK](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
-From this corpus i get data and metadata files, out of these i only need movie_conversations.txt and movie_lines.txt
+From this corpus i get data and metadata files, out of these i only need movie_conversations.txt and movie_lines.txt. Next i created a dictionary that map each line and its id.
