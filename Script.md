@@ -1,5 +1,5 @@
 # Installing python with Anaconda and TensorFlow
-On window i open anaconda prompt and there create a new environment named chatbot
+On window i open anaconda prompt and there create a new environment named chatbot.
 
 	conda create -n chatbot python=3.6 anaconda
 
@@ -12,10 +12,10 @@ Now iam in chatbot environment. Here iam installing Tensor flow as
 
 	pip install tensorflow
 
-Ok, then close the prompt and goto anaconda navigator and switch to chatbot environment.Here i use spyder to do all the coding. Then all set to work.
+Ok, then close the prompt and goto anaconda navigator and switch to chatbot environment. Here i use spyder to do all the coding.
 
 # Getting dataset 
-I found a dataset which is called [Cornell Movie DialogsCorpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).This corpus contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts:
+I found a dataset which is called [Cornell Movie Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).This corpus contains a large metadata-rich collection of fictional conversations extracted from raw movie scripts:
 
 [zip file](http://www.cs.cornell.edu/~cristian/data/cornell_movie_dialogs_corpus.zip)
 
